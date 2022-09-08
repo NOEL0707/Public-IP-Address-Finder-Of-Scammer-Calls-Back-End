@@ -1,0 +1,5 @@
+10.196.10.158		157.240.228.62		STUN	User Datagram Protocol, Src Port: 49402, Dst Port: 3478
+10.196.10.158		31.13.79.52		STUN	User Datagram Protocol, Src Port: 49402, Dst Port: 3478
+10.196.10.158		157.240.242.62		STUN	User Datagram Protocol, Src Port: 49402, Dst Port: 3478
+10.196.10.158		157.240.23.52		STUN	User Datagram Protocol, Src Port: 49402, Dst Port: 3478
+10.196.10.158		157.240.198.62		STUN	User Datagram Protocol, Src Port: 49402, Dst Port: 3478
